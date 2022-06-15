@@ -10,4 +10,6 @@ In 1856, an American scientist named Eunice Newton Foote conducted a seminal exp
 | Foote-Step Thermometer Calibration Example | This sheet works through the analysis of data to generate a standard curve for the advanced thermometer calibration experiment | 
 | Foote-Step Analysis Example | This sheet works through the analysis from raw data to interpretable plots, demonstrating both the difference method and thermometer calibration method for compensating for mis-calibrated thermometers |
 
+For a description of the molecular basis for the greenhouse gas effect, check out [this page](https://www.nku.edu/~hicks/CHE%20120/The%20Greenhouse%20Effect%20alpha.htm)!
+
 This project was supported by [Nano@Stanford](https://nanolabs.stanford.edu/).
