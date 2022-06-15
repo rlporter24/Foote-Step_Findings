@@ -5,10 +5,10 @@ In 1856, an American scientist named Eunice Newton Foote conducted a seminal exp
 
 | File                         | Contents |
 | ---------------------------- | -------- |
-| Foote-Step Experiment Description | This contains background information about Eunice's work and a full procedure to replicate her work on your own! |
-| Foote-Step Advanced Calculations  | Available in both Google Sheet and Excel formats, this spread sheet form can be used to calculate the precise amounts of reagents needed for different experimental setups. |
-| Foote-Step Thermometer Calibration Example | This sheet works through the analysis of data to generate a standard curve for the advanced thermometer calibration experiment | 
-| Foote-Step Analysis Example | This sheet works through the analysis from raw data to interpretable plots, demonstrating both the difference method and thermometer calibration method for compensating for mis-calibrated thermometers |
+| [Foote-Step Experiment Description](https://docs.google.com/document/d/1QcKHQgx8SSwr-baKsRfbYLMzD3DtKUHY4A6jckSHJAU/edit?usp=sharing) | This contains background information about Eunice's work and a full procedure to replicate her work on your own! |
+| [Foote-Step Advanced Calculations](https://docs.google.com/spreadsheets/d/1tkK66GXUpAw81MWhQY4kRPdjeo2oqS6eYQeyG2bud0k/edit?usp=sharing)  | Available in both Google Sheet and Excel formats, this spread sheet form can be used to calculate the precise amounts of reagents needed for different experimental setups. |
+| [Foote-Step Thermometer Calibration Example](https://docs.google.com/spreadsheets/d/1ey4LmXIWB70fvFiyQj-Uq2JEG1rxSLz2azqtyFuc9NQ/edit?usp=sharing) | This sheet works through the analysis of data to generate a standard curve for the advanced thermometer calibration experiment | 
+| [Foote-Step Analysis Example](https://docs.google.com/spreadsheets/d/1eUM9zGISp6Nr5DGSTk7nVY4388xVUlgupqNgpQcTITU/edit?usp=sharing) | This sheet works through the analysis from raw data to interpretable plots, demonstrating both the difference method and thermometer calibration method for compensating for mis-calibrated thermometers |
 
 For a description of the molecular basis for the greenhouse gas effect, check out [this page](https://www.nku.edu/~hicks/CHE%20120/The%20Greenhouse%20Effect%20alpha.htm)!
 
