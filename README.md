@@ -9,6 +9,7 @@ In 1856, an American scientist named Eunice Newton Foote conducted a seminal exp
 | [Foote-Step Advanced Calculations](https://docs.google.com/spreadsheets/d/1tkK66GXUpAw81MWhQY4kRPdjeo2oqS6eYQeyG2bud0k/edit?usp=sharing)  | Available in both Google Sheet and Excel formats, this spread sheet form can be used to calculate the precise amounts of reagents needed for different experimental setups. |
 | [Foote-Step Thermometer Calibration Example](https://docs.google.com/spreadsheets/d/1ey4LmXIWB70fvFiyQj-Uq2JEG1rxSLz2azqtyFuc9NQ/edit?usp=sharing) | This sheet works through the analysis of data to generate a standard curve for the advanced thermometer calibration experiment | 
 | [Foote-Step Analysis Example](https://docs.google.com/spreadsheets/d/1eUM9zGISp6Nr5DGSTk7nVY4388xVUlgupqNgpQcTITU/edit?usp=sharing) | This sheet works through the analysis from raw data to interpretable plots, demonstrating both the difference method and thermometer calibration method for compensating for mis-calibrated thermometers |
+| [Foote-Steps Introduction Video](https://clipchamp.com/watch/ZMIBpQ3oPSq) | This is a short 5 minute video introducting me, my interest on the topic, and most importantly, Eunice Newton Foote's work! |
 
 For a description of the molecular basis for the greenhouse gas effect, check out [this page](https://www.nku.edu/~hicks/CHE%20120/The%20Greenhouse%20Effect%20alpha.htm)!
 
